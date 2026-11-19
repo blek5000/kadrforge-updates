@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "changelog": "Добавлена автогенерация AI-кадров при нехватке фото и лимитах Gemini, субтитры переведены в формат ASS с привязкой строго к низу экрана, введён точный контроль длительности ролика и автоочистка временных файлов после сборки.",
-  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/tag/v1.4.0"
+  "version": "1.4.1",
+  "changelog": "Живая резервная озвучка (Edge TTS / Piper / gTTS) без SAPI и выбор количества роликов в пачке (1, 5, 10, 15, 20) для Shorts и Long.",
+  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/latest/download/KadrForge_v1.4.1.zip"
 }
