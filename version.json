@@ -1,6 +1,5 @@
 {
-  "version": "1.3.2",
-  "release_date": "2026-11-19",
-  "changelog": "Поддержка списка из нескольких бесплатных Gemini API ключей (по 1 ключу на строку) с автоматическим переключением при исчерпании квоты (429 / RESOURCE_EXHAUSTED).",
-  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/download/v1.3.2/KadrForge_Studio_v1.3.2.zip"
+  "version": "1.3.3",
+  "changelog": "Автоповтор и переключение при ошибке 503 UNAVAILABLE, запасные модели текста",
+  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/download/v1.3.3/KadrForge_Studio_v1.3.3.zip"
 }
