@@ -1,5 +1,5 @@
 {
-  "version": "1.3.4",
-  "changelog": "Убрана недоступная gemini-2.5-flash, добавлена обработка 404 NOT_FOUND и переход на gemini-3.8-flash",
-  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/download/v1.3.4/KadrForge_Studio_v1.3.4.zip"
+  "version": "1.3.5",
+  "changelog": "Разделение спасения животных на диких и домашних, улучшенный поиск реальных фото",
+  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/download/v1.3.5/KadrForge_Studio_v1.3.5.zip"
 }
