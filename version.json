@@ -1,5 +1,5 @@
 {
-  "version": "1.3.6",
-  "changelog": "Поиск чистых фото в Openverse и Wikimedia Commons, защита от падения при лимитах API на 3/5",
-  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/download/v1.3.6/KadrForge_Studio_v1.3.6.zip"
+  "version": "1.3.9",
+  "changelog": "Добавлен автопереход на резервный пул нейросетей с автозапуском, уменьшены и опущены вниз субтитры, усилена фильтрация кадров строго по выбранной теме.",
+  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/tag/v1.3.9"
 }
