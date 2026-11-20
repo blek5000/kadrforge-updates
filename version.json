@@ -1,5 +1,5 @@
 {
-  "version": "1.4.4",
-  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/download/v1.4.4/KadrForge_Studio_v1.4.4.zip",
-  "changelog": "v1.4.4: раздельная логика и превью под все 17 ниш без смешивания сюжетов, автопереключение freellmpool -> RoyalTechno API при сбое/таймауте, длительность лонг-видео 10/15/20 мин, цепочка кадров без скачков, очистка озвучки от заголовков сцен и финальный CTA в конце ролика."
+  "version": "1.4.6",
+  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/download/v1.4.6/KadrForge_Studio_v1.4.6.zip",
+  "changelog": "v1.4.6: исправление отображения версии, актуальный API endpoint RoyalTechno, устойчивые фолбэки и сборка релиза"
 }
