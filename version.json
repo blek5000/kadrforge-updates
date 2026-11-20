@@ -1,5 +1,5 @@
 {
-  "version": "1.4.3",
-  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/download/v1.4.3/KadrForge_Studio_v1.4.3.zip",
-  "changelog": "Переход на RoyalTechno Bot API (ElevenLabs TTS, Veo 3.1, Grok Imagine 1.5, Nano Banana Pro), сценарии и разбор конкурентов через freellmpool, пакетная генерация до 20 роликов и автоочистка временных файлов."
+  "version": "1.4.4",
+  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/download/v1.4.4/KadrForge_Studio_v1.4.4.zip",
+  "changelog": "v1.4.4: раздельная логика и превью под все 17 ниш без смешивания сюжетов, автопереключение freellmpool -> RoyalTechno API при сбое/таймауте, длительность лонг-видео 10/15/20 мин, цепочка кадров без скачков, очистка озвучки от заголовков сцен и финальный CTA в конце ролика."
 }
