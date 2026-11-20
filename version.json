@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
-  "changelog": "Исправлена резервная озвучка без каши и обрезков, добавлены Pexels/Pixabay и HuggingFace FLUX без водяных знаков, строгий фильтр кадров по главному объекту сцены, 3 разных превью и автопереключение рубрики при анализе конкурентов.",
-  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/latest/download/KadrForge_v1.4.2.zip"
+  "version": "1.4.3",
+  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/download/v1.4.3/KadrForge_Studio_v1.4.3.zip",
+  "changelog": "Переход на RoyalTechno Bot API (ElevenLabs TTS, Veo 3.1, Grok Imagine 1.5, Nano Banana Pro), сценарии и разбор конкурентов через freellmpool, пакетная генерация до 20 роликов и автоочистка временных файлов."
 }
