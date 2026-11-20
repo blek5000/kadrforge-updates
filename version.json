@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
-  "changelog": "Живая резервная озвучка (Edge TTS / Piper / gTTS) без SAPI и выбор количества роликов в пачке (1, 5, 10, 15, 20) для Shorts и Long.",
-  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/latest/download/KadrForge_v1.4.1.zip"
+  "version": "1.4.2",
+  "changelog": "Исправлена резервная озвучка без каши и обрезков, добавлены Pexels/Pixabay и HuggingFace FLUX без водяных знаков, строгий фильтр кадров по главному объекту сцены, 3 разных превью и автопереключение рубрики при анализе конкурентов.",
+  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/latest/download/KadrForge_v1.4.2.zip"
 }
