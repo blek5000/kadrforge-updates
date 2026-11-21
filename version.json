@@ -1,5 +1,5 @@
 {
-  "version": "1.4.7",
-  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/download/v1.4.7/KadrForge_Studio_v1.4.7.zip",
-  "changelog": "v1.4.7: крупные заголовки на превью и увеличенные пословные субтитры в стиле Shorts, озвучка строго через RoyalTechno API без тишины и автосинхронизация version.json"
+  "version": "1.4.8",
+  "download_url": "https://github.com/blek5000/kadrforge-updates/releases/download/v1.4.8/KadrForge_Studio_v1.4.8.zip",
+  "changelog": "Добавлен режим «Авто (по нише и формату)» для автоматического выбора модели генерации (Grok Imagine / Veo 3.1 / Nano Banana Pro) и исправлена инициализация при запуске."
 }
